@@ -1,7 +1,7 @@
 ---
 title: Hansol Lee
 role: Graduate student in KAIST
-avatar_filename: avatar.jpg
+avatar_filename: profile.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
