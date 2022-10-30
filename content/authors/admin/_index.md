@@ -21,9 +21,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+  - icon: instagram
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://instagram.com/onesol2/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -47,6 +47,6 @@ email: ""
 ---
 I﻿ am a Mechanical Engineering graduate student in **KAIST**. My research focuses on heat transfer, phase change phenomena, and their variety of applications such as thermal management of electronics or sustainable energy. R﻿ecently, I have been conducting research on a embedded cooling device for high flux dissipating electronics.
 
-Besides my research, I enjoy sharing my projects, theories and writing essays about miscellnaeous topics
+Besides my research, I enjoy sharing my projects, theories and writing essays about miscellnaeous topics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
