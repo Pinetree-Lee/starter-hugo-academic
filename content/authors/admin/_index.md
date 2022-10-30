@@ -33,15 +33,12 @@ organizations:
   - name: KAIST
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Mechanical Engineering
+      institution: Korea Advanced Institute of Science and Technology (KAIST)
+      year: ""
+    - course: BSc in Mechanical Engineering
+      institution: Korea Advanced Institute of Science and Technology (KAIST)
+      year: 2022
 superuser: true
 last_name: Bighetti
 highlight_name: true
