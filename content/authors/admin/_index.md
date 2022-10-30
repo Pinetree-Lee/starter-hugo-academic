@@ -2,8 +2,8 @@
 title: Hansol Lee
 role: Graduate student in KAIST
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research includes heat transfer, phase change phenomena and their
+  applications such as thermal management of electronics or sustainable energy.
 interests:
   - Heat Transfer
   - Thermal Management
@@ -45,9 +45,8 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
+I﻿ am a Mechanical Engineering graduate student in **KAIST**. My research focuses on heat transfer, phase change phenomena, and their variety of applications such as thermal management of electronics or sustainable energy. R﻿ecently, I have been conducting research on a embedded cooling device for high flux dissipating electronics.
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Besides my research, I enjoy sharing my projects, theories and writing essays about miscellnaeous topics
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
