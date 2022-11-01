@@ -20,7 +20,7 @@ links:
     name: Follow
     url: https://twitter.com/georgecushen
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Temperature distribution of a micro-pin array
   focal_point: Smart
 url_code: ""
 ---
