@@ -2,8 +2,8 @@
 slides: example
 url_pdf: ""
 summary: A parametric study on thermal and hydrualic performance of micro-pin
-  fin array given the same porosity.
-authors: []
+  fin array given the same porosity
+authors: [Hansol Lee]
 url_video: ""
 date: 2022-11-01T15:55:12.666Z
 categories:
