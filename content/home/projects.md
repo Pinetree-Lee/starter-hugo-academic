@@ -27,6 +27,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: CFD
+      tag: CFD
     - name: Deep Learning
       tag: Deep Learning
     - name: Other
