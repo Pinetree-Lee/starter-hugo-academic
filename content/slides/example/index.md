@@ -10,16 +10,16 @@ slides:
   highlight_style: dracula
 ---
 
-# ME613 Numerical Analysis of Micro-pin Fin Array
+# ME613 Final Term Project
 
-F﻿inal term project for Computational Fluid Dynamics and Heat Transfer
+Numerical Analysis of Micro-pin Fin Array
 
 ---
 
-## Features
+## Objectives
 
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
+- To imply computational 
+- To learn how to 
 - Supports speaker notes
 - Mobile friendly slides
 
