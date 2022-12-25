@@ -6,11 +6,13 @@ url_video: ""
 date: 2022-12-25T14:14:11.668Z
 external_link: ""
 url_slides: ""
-title: ME512
+title: ME514 Design of Cascade Thermosiphon Loop for Data Center Cooling
 tags:
-  - Deep Learning
+  - Final Term Project
+  - Phase Change Heat Transfer
+  - Heat Exchanger Design
 links:
-  - icon: twitter
+  - icon: Instagram
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
