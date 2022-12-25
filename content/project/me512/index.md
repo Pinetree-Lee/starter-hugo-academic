@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-summary: An example of using the in-built project page.
+summary: A novel design of thermosiphon loop for data center cooling purpose
 url_video: ""
 date: 2022-12-25T14:14:11.668Z
 external_link: ""
