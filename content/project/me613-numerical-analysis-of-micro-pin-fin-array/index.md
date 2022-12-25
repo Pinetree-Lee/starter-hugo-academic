@@ -14,11 +14,12 @@ title: ME613 Numerical Analysis of Micro-pin Fin Array
 subtitle: ""
 tags:
   - CFD
+  - Term Project
 links:
-  - icon: twitter
+  - icon: instagram
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://www.instagram.com/onesol2/
 image:
   caption: Temperature distribution of a micro-pin array
   focal_point: Smart
