@@ -31,12 +31,10 @@ content:
       tag: CFD
     - name: Term Project
       tag: Term Project
-    - name: Other
-      tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
