@@ -1,6 +1,6 @@
 ---
 slides: example
-url_pdf: "https://github.com/Pinetree-Lee/starter-hugo-academic/blob/main/assets/media/pdfs/ME512_Final_Term_Report_20223546_HansolLee.pdf"
+url_pdf: "https://nbviewer.org/github/Pinetree-Lee/starter-hugo-academic/blob/main/assets/media/pdfs/ME512_Final_Term_Report_20223546_HansolLee.pdf"
 summary: A novel design of thermosiphon loop for data center cooling purpose
 url_video: ""
 date: 2022-12-25T14:14:11.668Z
