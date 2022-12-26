@@ -17,7 +17,7 @@ links:
     name: Follow
     url: https://www.instagram.com/onesol2/
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Schematic of a cascade thermosiphon loop module for data center cooling
   focal_point: Smart
 url_code: ""
 ---
