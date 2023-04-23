@@ -12,7 +12,7 @@ slides:
 
 # 2023 KSME TED PRESENTATION
 
-Thermal Performance Prediction of Liquid-cooled Manifold Microchannel (MMC) Heat Sinks with Plate Fins
+Thermal Performance Prediction of Liquid-cooled MMC Heat Sinks
 ---
 
 ## Objectives
@@ -26,7 +26,7 @@ Thermal Performance Prediction of Liquid-cooled Manifold Microchannel (MMC) Heat
 ## Functional Form of Nusselt Number Correlation
 
 $$
-\overline{\text{Nu}}_{\text{avg}} = \left(\overline{\text{Nu}}_{\text{jet}}^n + \overline{\text{Nu}}_{\text{dev}}^n\right)^n 
+\[\overline{Nu}\]
 $$
 
 ---
