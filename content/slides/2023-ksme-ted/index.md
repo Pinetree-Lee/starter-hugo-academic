@@ -13,13 +13,12 @@ slides:
 # 2023 KSME TED PRESENTATION
 
 Thermal Performance Prediction of Liquid-cooled MMC Heat Sinks
+
 ---
 
 ## Objectives
 
 - To develop semi-analytical heat transfer modeling of MMC heat sinks including jet impingement and simultaneously developing flow characteristics
-- To suggest the Nusselt number correlation of MMC heat sinks based on the scaling analysis and asymptotic approach for jet impingement and simultaneously developing flow
-- To validate the proposed semi-analytical heat transfer model of MMC heat sinks using the experimental data from various research groups
 
 ---
 
