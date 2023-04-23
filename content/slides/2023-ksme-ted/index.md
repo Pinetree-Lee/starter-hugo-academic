@@ -25,7 +25,7 @@ Thermal Performance Prediction of Liquid-cooled MMC Heat Sinks
 ## Functional Form of Nusselt Number Correlation
 
 $$
-\overline{\text{Nu}} = 
+\overline{\text{Nu}} = \left( \overline{\text{Nu}}_{\text{jet}}^n + \overline{\text{Nu}}_{\text{dev}}^n \right)^{1/n}
 $$
 
 ---
