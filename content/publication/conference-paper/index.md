@@ -42,7 +42,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+#   url: 
 
 url_pdf: 'https://nbviewer.org/github/Pinetree-Lee/starter-hugo-academic/blob/main/assets/media/pdfs/2023_KSME_TED_extended_abstract_Hansol_Lee.pdf'
 url_project: ''
