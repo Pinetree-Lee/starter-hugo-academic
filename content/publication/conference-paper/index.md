@@ -1,5 +1,5 @@
 ---
-title: '2023 KSME Thermal Engineering Division'
+title: 'Thermal Performance Prediction of Liquid-cooled Manifold Microchannel (MMC) Heat Sinks with Plate Fins'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -26,13 +26,13 @@ publishDate: '2023-04-21T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2023 KSME TED*
-publication_short: In *KSME*
+publication: In *2023 Korean Society Mechanical Engineering Thermal Engineering Division*
+publication_short: In *2023 KSME TED*
 
 abstract: Liquid-cooled manifold microchannel (MMC) heat sinks have drawn attention as a promising cooling solution to high performance electronic systems such as laser diodes, DC/DC converters, and inverters. Due to heat transfer enhancements attributed to developing flow and jet impingement, MMC heat sinks have higher heat transfer coefficients than conventional microchannel heat sinks. However, previous 1-D parallel flow models have neglected the heat transfer enhancement induced by jet impingement, resulting in inaccurate thermal performance predictions for MMC heat sinks. This paper proposes a new semi-analytical heat transfer model that takes into account the heat transfer enhancement due to developing flow and jet impingement, leading to more accurate thermal performance predictions for MMC heat sinks. The model proposes a Nusselt number correlation that is a function of dimensionless parameters, including dimensionless flow length, channel aspect ratio, and jet Reynolds number. A parametric study is conducted using 3-D numerical simulation to obtain the undertermined coefficients of the correlation. Subsequently, the total thermal resistance of MMC heat sinks is predicted using the effectiveness-NTU approach. The results indicate that the predictions of the model show good agreement with experimental data to within 20%.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This material was presented in 2023 KSME TED. The newly developed semi-analytical heat transfer model of MMC heat sinks is proposed and the prediciton of the model shows good agreement with experimental data within 20% margin of error.
 
 tags: [3-D manifold microchannel, Liquid cooling, electronics cooling, heat sink]
 
@@ -51,7 +51,6 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
