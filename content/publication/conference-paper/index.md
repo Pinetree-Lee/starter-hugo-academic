@@ -44,13 +44,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
+url_pdf: 'https://nbviewer.org/github/Pinetree-Lee/starter-hugo-academic/blob/main/assets/media/pdfs/2023_KSME_TED_extended_abstract_Hansol_Lee.pdf'
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -65,7 +61,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
