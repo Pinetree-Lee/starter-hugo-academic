@@ -1,7 +1,7 @@
 ---
 title: 2023 KSME TED
-summary: An introduction to using Wowchemy's Slides feature.
-authors: []
+summary: 2023 KSME TED presentation material
+authors: [Hansol Lee, Sung Jin Kim]
 tags: []
 categories: []
 date: 2023-04-23T08:16:29.010Z
@@ -17,45 +17,16 @@ Thermal Performance Prediction of Liquid-cooled Manifold Microchannel (MMC) Heat
 
 ## Objectives
 
-- To develop semi-analytical heat transfer modeling of MMC heat sinks including                          jet impingement and simultaneously developing flow characteristics
+- To develop semi-analytical heat transfer modeling of MMC heat sinks including jet impingement and simultaneously developing flow characteristics
 - To suggest the Nusselt number correlation of MMC heat sinks based on the scaling analysis and asymptotic approach for jet impingement and simultaneously developing flow
 - To validate the proposed semi-analytical heat transfer model of MMC heat sinks using the experimental data from various research groups
-
----
-
-## Controls
-
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://revealjs.com/pdf-export/)
-
----
-
-## Code Highlighting
-
-Inline code: `variable`
-
-Code block:
-
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
 
 ---
 
 ## Functional Form of Nusselt Number Correlation
 
 $$
-\﻿overline{\Nu}_{avg}
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+\overline{\text{Nu}}_{\text{avg}} = \left(\overline{\text{Nu}}_{\text{jet}}^n + \overline{\text{Nu}}_{\text{dev}}^n\right)^n 
 $$
 
 ---
