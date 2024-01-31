@@ -9,14 +9,11 @@ draft: false
 featured: false
 authors:
   - admin
-  - 吳恩達
 lastmod: 2020-12-13T00:00:00Z
 tags:
   - Academic
-  - 开源
 categories:
   - Demo
-  - 教程
 projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
@@ -28,6 +25,7 @@ image:
 ## New year
 
 It is a new year. My family often goes to see the first sunrise of the coming year, as a family tradition. In this year, we visited the west coast to see the sunrise on January 1st. Although the weather forecast predicted clouds, we were fortunate enough to witness the sun peaking out of the clouds, and we made some wishes for 2024. I wished that I would win the lotto this year. (Just kidding)
+![image](test.jpg)
 
 [![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
 
