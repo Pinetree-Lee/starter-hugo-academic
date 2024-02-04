@@ -13,13 +13,13 @@ lastmod: 2020-12-13T00:00:00Z
 tags:
   - Monthly review
 categories:
-  - Demo
+  - Blog posts
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  caption: "Newyear's sunrise"
   focal_point: ""
   placement: 2
-  preview_only: false
+  preview_only: true
 ---
 
 ## New year
