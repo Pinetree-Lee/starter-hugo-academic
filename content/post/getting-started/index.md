@@ -11,7 +11,7 @@ authors:
   - admin
 lastmod: 2020-12-13T00:00:00Z
 tags:
-  - Academic
+  - Monthly review
 categories:
   - Demo
 projects: []
@@ -24,62 +24,15 @@ image:
 
 ## New year
 
-It is a new year. My family often goes to see the first sunrise of the coming year, as a family tradition. In this year, we visited the west coast to see the sunrise on January 1st. Although the weather forecast predicted clouds, we were fortunate enough to witness the sun peaking out of the clouds, and we made some wishes for 2024. I wished that I would win the lotto this year. (Just kidding)
+It is a new year. My family often goes to see the first sunrise of the coming year, as a family tradition. In this year, we visited the west coast to see the sunrise on January 1st. Although the weather forecast predicted clouds, we were fortunate enough to witness the sun peaking out of the clouds, and we made some wishes for 2024. I wished that I would win the lotto this year. (Just kidding!)
 ![image](test.jpg)
 
-[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
+After I decided to postpone my admission to graduate schools for Ph. D. programs last year, I thought that it would be better to record or write down experiences and thoughts every month to look back and see if I'm on the right track. This is the first post for that purpose. One day, some students who look forward to the similar career path with me might visit my website and see through what I wrote down. I hope that they can get some inspirations or lessons from my experience.
 
-## Get Started
+Although my fianl defense for the master's degree ended in December last year, I was really hectic in January. First of all, I had to prepare for my graduation. It included tedious paper works. (e.g. checking whether I return borrowed library books, reporting whether I dispose of some chemicals no longer needed) More importantly, I had to finish my thesis and submit it to the department. I know, many people think that a thesis for a master's degree is nothing important. But I believe that the thesis summarizes what I have done during the past two years and proves my efforts for the degree, which is why I put so much efforts into writing the thesis. Anyway, I was able to finish it till the deadline. (I plan to upload it on this website so that it is accesible to everyone.)
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+## The first journal paper
 
-## Crowd-funded open-source software
+After finishing my master's thesis, I continued to work on writing my first journal paper. In fact, I thought I could have published the first journal paper by last winter, but it was really hard to keep working on preparing for the defence and writing the journal paper at the same time. From my schedule, it's been delayed quite a bit, so I've really concentrated on writing a journal paper in January to get it done as soon as possible. Personally, I think I'm quite good at writing reports or essays, but writing a journal paper was more difficult than I expected. I had to discuss a lot with my colleague and professor and answer their questions. For example, I had to check whether there were some jumps between the logics or some error in the assumptions; I had to have a clear answer for the contribution of my work; I had to explain the concept of my research so that everyone could easily understand it. One important thing I learnt while writing the first journal article is that I should be able to summarise and explain the key ideas in one or two sentences. Simplification is the most important thing and the hardest thing to do while writing the paper. After all these efforts, I finally submitted my first journal paper to the *international communications in heat and mass transfer* (IF=7.0, JCR top 4.7%). It was very exciting and I learned a lot. When I start the next journal paper, I think I will be better at planning my research and writing a paper. Of course, there are still a lot of steps to go before my paper is published, as I still have to go through some peer review stages. I hope to be able to complete all the processes by March.
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/sponsor/)
-
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/sponsor/) awesome rewards and extra features 🦄✨**
-
-## Ecosystem
-
-- **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
-
-## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
-
-## Features
-
-- **Page builder** - Create _anything_ with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
+Two people left our lab in January. One is my colleague who started the master's degree program with me, and she is going to work at Samsung. The other person is my senior, and he will continue his research in the national research institute. I hope they will do well in their new jobs. In February, I will have a graduation ceremony and it would be the last month for my Master's programme. I think I will spend most of the time to arrange the research topic for the next journal paper and prepare SOP or CV for admission. If the time allows me, I think I will take the TOEFL exam again to get a higher score in the speaking section, which was the weakest part in the last exam.
