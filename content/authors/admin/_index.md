@@ -2,11 +2,13 @@
 title: Hansol Lee
 role: Researcher in KAIST
 avatar_filename: avatar.jpg
-bio: 
+bio: My research includes thermal managemet of electronics including wide-band gap semiconductors and 3D ICs via embeddedd liquid cooling, phase change phenomena, and advanced packaging.
 interests:
-  - Heat Transfer
-  - Thermal Management
-  - Phase Change
+  - Thermal management
+  - 
+  - Phase change phenomena
+  - Heat transfer
+  - Energy conversion
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,17 +25,17 @@ organizations:
   - name: KAIST
 education:
   courses:
-    - course: MEng in Mechanical Engineering
+    - course: MS in Mechanical Engineering
       institution: Korea Advanced Institute of Science and Technology (KAIST)
-      year: ""
-    - course: BSc in Mechanical Engineering
+      year: 2022-2024
+    - course: BS in Mechanical Engineering
       institution: Korea Advanced Institute of Science and Technology (KAIST)
-      year: 2022
+      year: 2015-2022
 superuser: true
-last_name: Bighetti
+last_name: Lee
 highlight_name: true
-first_name: Alice
-email: ""
+first_name: Hansol
+email: "hansollee1783@gmail.com"
 ---
 I﻿ am a Mechanical Engineering graduate student in **KAIST**. My research focuses on heat transfer, phase change phenomena, and their variety of applications such as thermal management of electronics or sustainable energy. R﻿ecently, I have been conducting research on a embedded cooling device for high flux dissipating electronics.
 
