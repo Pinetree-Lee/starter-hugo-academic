@@ -4,10 +4,12 @@ role: Researcher in KAIST
 avatar_filename: avatar.jpg
 bio: My research includes thermal managemet of electronics including wide-band gap semiconductors and 3D ICs via embeddedd liquid cooling, phase change phenomena, and advanced packaging.
 interests:
-  - Thermal management
-  - 
-  - Phase change phenomena
+  - Thermal management of electronics
+  - Embedded liquid cooling
+  - Advanced packaging
+  - Thermal-electrical transport in semiconductors
   - Heat transfer
+  - Phase change phenomena
   - Energy conversion
 social:
   - icon: envelope
@@ -37,8 +39,8 @@ highlight_name: true
 first_name: Hansol
 email: "hansollee1783@gmail.com"
 ---
-I﻿ am a Mechanical Engineering graduate student in **KAIST**. My research focuses on heat transfer, phase change phenomena, and their variety of applications such as thermal management of electronics or sustainable energy. R﻿ecently, I have been conducting research on a embedded cooling device for high flux dissipating electronics.
+I﻿ am a researcher in the **department of mechanical engineering in KAIST**. Currently, my research focuses on thermal management of electronics including power/RF devices based on the wide-band gap semiconductors and 3D ICs. I have been conducting research on an embedded liquid cooling device, which is manifold microchannels (MMC), for high-heat flux dissipating electronics (2022-Present). I'm also interested in thermal-electrical transport in semiconductors and thermal-aware advanced packaging technology.  
 
-Besides my research, I enjoy sharing my projects, theories and writing essays about miscellnaeous topics.
+Besides my research, I enjoy playing tennis, reading books, and writing essays about miscellnaeous topics. I also love doing some side projects not related to my major like building my website as you are seeing now.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
