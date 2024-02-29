@@ -43,4 +43,4 @@ I﻿ am a researcher in the **department of mechanical engineering in KAIST**. C
 
 Besides my research, I enjoy playing tennis, reading books, and writing essays about miscellnaeous topics. I also love doing some side projects not related to my major like building my website as you are seeing now.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_HLee.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_HLee.pdf" "newtab" >}}CV{{< /staticref >}}.
