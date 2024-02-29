@@ -1,9 +1,8 @@
 ---
 title: Hansol Lee
-role: Graduate student in KAIST
+role: Researcher in KAIST
 avatar_filename: avatar.jpg
-bio: My research includes heat transfer, phase change phenomena and their
-  applications such as thermal management of electronics or sustainable energy.
+bio: 
 interests:
   - Heat Transfer
   - Thermal Management
