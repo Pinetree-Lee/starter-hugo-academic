@@ -118,6 +118,7 @@ Press the `S` key to view the speaker notes!
 ---
 
 #﻿# Simultaneous measurement of local heat flux
+
 <img src="temperatures.png" width="500"/>
 
 - night: Black background, thick white text, orange links
