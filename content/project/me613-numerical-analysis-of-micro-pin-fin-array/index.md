@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: test
 url_pdf: ""
 summary: Calibration of IR camera and simultaneous data processing for
   estimating local heat flux in pool boiling situation
