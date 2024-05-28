@@ -9,18 +9,14 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-# Hands-on experience on IR measurement and data processing
-
-Numerical Analysis of Micro-pin Fin Array
+# IR camera calibration and data processing
 
 ---
 
 ## Objectives
 
-- To imply computational 
-- To learn how to 
-- Supports speaker notes
-- Mobile friendly slides
+- To calibrate a IR camera using the black body
+- To develop an in-house code for estimating local heat flux in pool boiling situation using temperature distribution obtained by IR thermometry
 
 ---
 
