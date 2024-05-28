@@ -117,7 +117,7 @@ Press the `S` key to view the speaker notes!
 
 ---
 <img src="temperatures.png" width="500"/>
-![image](temperatures.png)
+
 - night: Black background, thick white text, orange links
 - serif: Cappuccino background, gray text, brown links
 - simple: White background, black text, blue links
