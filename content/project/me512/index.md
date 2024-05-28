@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: IR thermometry
 url_pdf: "https://nbviewer.org/github/Pinetree-Lee/starter-hugo-academic/blob/main/assets/media/pdfs/ME512_Final_Term_Report_20223546_HansolLee.pdf"
 summary: A novel design of thermosiphon loop for data center cooling purpose
 url_video: ""
