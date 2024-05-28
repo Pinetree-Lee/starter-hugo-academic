@@ -16,7 +16,7 @@ content:
     - name: Term Project
       tag: Term Project
 design:
-  columns: "2"
+  columns: "1"
   view: showcase
   flip_alt_rows: false
 ---
