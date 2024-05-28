@@ -8,15 +8,18 @@ authors:
 url_video: ""
 date: 2022-11-01T15:55:12.666Z
 categories:
-  - CFD
+  - Experiment
+  - IR
 external_link: ""
 url_slides: ""
 title: Hands-on experience on infrared (IR) measurement and data processing
 subtitle: Calibration of IR camera and simultaneous data processing for
   estimating local heat flux in pool boiling situation
 tags:
-  - CFD
-  - Term Project
+  - IR_thermometry
+  - Data_processing
+  - Code_development
+  - Experiment
 links:
   - icon: instagram
     icon_pack: fab
@@ -27,7 +30,7 @@ image:
   focal_point: Smart
 url_code: ""
 ---
-In this project
+W﻿hile working as an undergraduate research intern in Applied Heat Transfer Lab., I had a chance to have a hands-on experience on IR thermometry and its data processing. Specifically, I conducted calibration of IR camera using black body 
 
 As embedded cooling schemes have been drawing attention due to the 3-D stacked semiconductors, researchers are still looking for a type of proper micro fin heat sink. The requirements of a micro fin heat sink for the practical application are as follows. First, it should have a low convective thermal resistance. Second, the pressure drop across the heat sink should be small.
 
