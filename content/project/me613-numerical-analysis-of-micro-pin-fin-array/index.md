@@ -12,7 +12,8 @@ categories:
 external_link: ""
 url_slides: ""
 title: Hands-on experience on infrared (IR) measurement and data processing
-subtitle: ""
+subtitle: Calibration of IR camera and simultaneous data processing for
+  estimating local heat flux in pool boiling situation
 tags:
   - CFD
   - Term Project
@@ -26,6 +27,7 @@ image:
   focal_point: Smart
 url_code: ""
 ---
+In this project
 
 As embedded cooling schemes have been drawing attention due to the 3-D stacked semiconductors, researchers are still looking for a type of proper micro fin heat sink. The requirements of a micro fin heat sink for the practical application are as follows. First, it should have a low convective thermal resistance. Second, the pressure drop across the heat sink should be small.
 
