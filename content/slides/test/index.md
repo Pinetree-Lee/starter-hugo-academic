@@ -116,7 +116,7 @@ Press the `S` key to view the speaker notes!
 - sky: Blue background, thin dark text, blue links
 
 ---
-<img src="temperatures.png" width="200" height="200" />
+<img src="temperatures.png" width="500"/>
 ![image](temperatures.png)
 - night: Black background, thick white text, orange links
 - serif: Cappuccino background, gray text, brown links
