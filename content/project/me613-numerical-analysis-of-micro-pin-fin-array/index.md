@@ -3,14 +3,15 @@ slides: example
 url_pdf: ""
 summary: A parametric study on thermal and hydrualic performance of micro-pin
   fin array given the same porosity
-authors: [Hansol Lee]
+authors:
+  - Hansol Lee
 url_video: ""
 date: 2022-11-01T15:55:12.666Z
 categories:
   - CFD
 external_link: ""
 url_slides: ""
-title: ME613 Numerical Analysis of Micro-pin Fin Array
+title: Hands-on experience on infrared (IR) measurement and data processing
 subtitle: ""
 tags:
   - CFD
