@@ -3,7 +3,7 @@ widget: portfolio
 widget_id: "20"
 headless: true
 weight: 20
-title: Research Experience
+title: Projects
 subtitle: ""
 content:
   page_type: project
@@ -16,7 +16,7 @@ content:
     - name: Term Project
       tag: Term Project
 design:
-  columns: "1"
+  columns: "2"
   view: showcase
   flip_alt_rows: false
 ---
