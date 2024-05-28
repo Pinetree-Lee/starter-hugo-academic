@@ -28,7 +28,7 @@ links:
 image:
   caption: Simultaneous measurement of boiling surface temperature and heat flux
   focal_point: Smart
-  filename: ir_images.png
+  filename: featured.png
 url_code: ""
 ---
 W﻿hile working as an undergraduate research intern in Applied Heat Transfer Lab., I had a chance to have a hands-on experience on IR thermometry and its data processing. Specifically, I conducted calibration of an IR camera using black body radiation and data processing to estimate local heat flux in pool boiling situation using a given temperature distribution.
