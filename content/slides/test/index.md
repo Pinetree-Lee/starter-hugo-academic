@@ -116,6 +116,7 @@ Press the `S` key to view the speaker notes!
 - sky: Blue background, thin dark text, blue links
 
 ---
+
 #﻿# Simultaneous measurement of local heat flux
 <img src="temperatures.png" width="500"/>
 
