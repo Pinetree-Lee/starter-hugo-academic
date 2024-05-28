@@ -1,12 +1,12 @@
 ---
 slides: example
 url_pdf: ""
-summary: A parametric study on thermal and hydrualic performance of micro-pin
-  fin array given the same porosity
+summary: Calibration of IR camera and simultaneous data processing for
+  estimating local heat flux in pool boiling situation
 authors:
   - Hansol Lee
 url_video: ""
-date: 2022-11-01T15:55:12.666Z
+date: 2024-05-28T10:39:32.082Z
 categories:
   - Experiment
   - IR
