@@ -21,10 +21,10 @@ tags:
   - Code_development
   - Experiment
 links:
-  - icon: instagram
+  - icon: likedin
     icon_pack: fab
     name: Follow
-    url: https://www.instagram.com/onesol2/
+    url: [https://www.instagram.com/onesol2/](https://www.linkedin.com/in/hansollee-research/)
 image:
   caption: Simultaneous measurement of boiling surface temperature and heat flux
   focal_point: Smart
