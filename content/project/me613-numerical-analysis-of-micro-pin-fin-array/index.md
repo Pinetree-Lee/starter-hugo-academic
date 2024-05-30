@@ -1,5 +1,5 @@
 ---
-slides: test
+slides:
 url_pdf: "https://nbviewer.org/github/Pinetree-Lee/starter-hugo-academic/blob/main/assets/media/pdfs/IR_measurement_data_processing.pdf"
 summary: Calibration of IR camera and simultaneous data processing for
   estimating local heat flux in pool boiling situation
