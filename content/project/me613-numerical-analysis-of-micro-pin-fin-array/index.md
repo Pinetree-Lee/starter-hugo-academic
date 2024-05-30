@@ -5,7 +5,7 @@ summary: Calibration of IR camera and simultaneous data processing for
   estimating local heat flux in pool boiling situation
 authors:
   - Hansol Lee
-url_video: ""
+url_video: "https://youtu.be/Ty_i0zoSwDk?si=JN6wEoTowtX1RXED"
 date: 2024-05-28T10:39:32.082Z
 categories:
   - Experiment
