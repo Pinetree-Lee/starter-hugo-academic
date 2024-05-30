@@ -33,11 +33,7 @@ url_code: ""
 ---
 W﻿hile working as an undergraduate research intern in Applied Heat Transfer Lab., I had a chance to have a hands-on experience on IR thermometry and its data processing. Specifically, I conducted calibration of an IR camera using black body radiation and data processing to estimate local heat flux in pool boiling situation using a given temperature distribution.
 
-A﻿ calibration process for IR camera
+To calibrate the IR camera, first, the temperature within a cavity container whose inner sides are covered by black body materials is measured by the IR camera. For this cavity container, the surface temperature and the emissivity are assumed to be known. Based on the measurement, we can estimate the uncertainty of the IR camera itself and how the measured temperature is different from the known value. The result shows that the IR camera has a maximum error of 0.86 Celcius degree within the temperature range of 20 to 180 Celcius degree.
 
+In the field of heat transfer, the data obtained from IR cameras often require the post-processing procedure such as estimating local heat flux from it. I did a short-term project to build an in-house code to estimate the local heat flux in a pool boiling situation using IR thermometry data. This work enables me to learn about solving transient 3D conduction problems and build a continuous movie form sequential solutions. The result of the work is shown in the link above this page.
 
-
-
-As embedded cooling schemes have been drawing attention due to the 3 -D stacked semiconductors, researchers are still looking for a type of proper micro fin heat sink. The requirements of a micro fin heat sink for the practical application are as follows. First, it should have a low convective thermal resistance. Second, the pressure drop across the heat sink should be small.
-
-Micro-pin fin heat sink is one of the possible choices for the practical application of embedded cooling schemes since it has a reasonably low convective thermal resistance and low pressure drop. However, it is still unclear how the varying transversal and longitudinal space between pin-fins affects heat transfer. To check the effects of the varying spacing clearly, I conducted the numerical study for the various pin-fin configurations given the same porosity as a final project for ME613 Computational Fluid Mechanics and Heat Transfer.
