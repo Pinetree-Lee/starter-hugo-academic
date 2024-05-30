@@ -21,7 +21,7 @@ tags:
   - Code_development
   - Experiment
 links:
-  - icon: likedin
+  - icon: linkedin
     icon_pack: fab
     name: Follow
     url: https://www.linkedin.com/in/hansollee-research/
