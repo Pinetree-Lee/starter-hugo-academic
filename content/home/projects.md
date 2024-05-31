@@ -11,8 +11,10 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: CFD
-      tag: CFD
+    - name: Thermal-hydraulic modeling for embedded cooling
+      tag: Thermal-hydraulic modeling for embedded cooling
+    - name: Thermal integrity analysis for 2.5D/3D PIM module 
+      tag: Thermal integrity analysis for 2.5D/3D PIM module 
     - name: Term Project
       tag: Term Project
 design:
