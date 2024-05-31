@@ -1,5 +1,5 @@
 ---
-title: "One-dimensional model of manifold microchannel heat sinks: Prediction of
+title: "One-dimensional model of manifold microchannels for embedded cooling: Prediction of
   thermal performance and flow non-uniformity"
 publication_types:
   - "3"
@@ -12,7 +12,7 @@ author_notes:
   - First co-author
   - Corresponding author
 draft: false
-featured: false
+featured: True
 image:
   filename: featured
   focal_point: Smart
