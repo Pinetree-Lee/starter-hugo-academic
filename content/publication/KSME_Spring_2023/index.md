@@ -37,7 +37,7 @@ summary: This material was presented in 2023 KSME TED. The newly developed semi-
 tags: [3-D manifold microchannel, Liquid cooling, electronics cooling, heat sink]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -51,7 +51,7 @@ url_slides: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Conference presentation'
+  caption: 'My first conference presentation. I was kind of nervous, but excited'
   focal_point: ''
   preview_only: false
 

@@ -35,12 +35,12 @@ abstract: A one-dimensional model has been developed to accurately predict the t
 
 
 # Summary. An optional shortened abstract.
-summary: This material was presented in 2024 KSME TED. The newly developed semi-analytical heat transfer model of MMC heat sinks is proposed and the prediciton of the model shows good agreement with experimental data within 20% margin of error.
+summary: This material was presented in 2024 KSME TED. The one-dimensional model which takes into account the effects of non-uniform flow distribution on the thermal performance of manifold microchannels is newly developed. This model enables accurate prediction of thermal performance and flow non-uniformity of MMC.
 
 tags: [Manifold microchannels, Embedded cooling, Electronics cooling, Heat sink, Thermal-hydraulic modeling, Flow non-uniformity]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
