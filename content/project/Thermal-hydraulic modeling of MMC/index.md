@@ -5,7 +5,7 @@ summary: In this work, one-dimensional model of MMC is developed, which enables 
 authors:
   - Hansol Lee
 url_video: ""
-date: 2024-05-29T10:39:32.082Z
+date: 2024-05-27T10:39:32.082Z
 categories:
   - Embedded cooling
   - Manifold microchannels
@@ -28,10 +28,10 @@ links:
 image:
   caption: Schematic of manifold microchannels (MMC)
   focal_point: Smart
-  filename: Fig1.png
+  filename: featured.png
 url_code: ""
 ---
-W﻿hile working as an undergraduate research intern in Applied Heat Transfer Lab., I had a chance to have a hands-on experience on IR thermometry and its data processing. Specifically, I conducted calibration of an IR camera using black body radiation and data processing to estimate local heat flux in pool boiling situation using a given temperature distribution.
+While working as an undergraduate research intern in Applied Heat Transfer Lab., I had a chance to have a hands-on experience on IR thermometry and its data processing. Specifically, I conducted calibration of an IR camera using black body radiation and data processing to estimate local heat flux in pool boiling situation using a given temperature distribution.
 
 To calibrate the IR camera, first, the temperature within a cavity container whose inner sides are covered by black body materials is measured by the IR camera. For this cavity container, the surface temperature and the emissivity are assumed to be known. Based on the measurement, we can estimate the uncertainty of the IR camera itself and how the measured temperature is different from the known value. The result shows that the IR camera has a maximum error of 0.86 Celcius degree within the temperature range of 20 to 180 Celcius degree.
 
