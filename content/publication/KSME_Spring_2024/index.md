@@ -56,7 +56,7 @@ url_slides: ''
 image:
   caption: 'Me waiting before doing presentation (it was very early morning)'
   focal_point: ''
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
