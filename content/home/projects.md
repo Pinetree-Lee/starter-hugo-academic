@@ -13,8 +13,8 @@ content:
       tag: "*"
     - name: Embedded cooling
       tag: Embedded cooling
-    - name: Thermal modeling of heterogeneous chip module 
-      tag: Thermal modeling of heterogeneous chip module  
+    - name: Thermal modeling of heterogeneous package 
+      tag: Thermal modeling of heterogeneous package 
     - name: Term Project
       tag: Term Project
 design:
