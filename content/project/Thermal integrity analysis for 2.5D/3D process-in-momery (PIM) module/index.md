@@ -5,7 +5,7 @@ summary: Thermal modeling of PIM module for comprehensively anlayzing thermal in
 authors:
   - Hansol Lee
 url_video: ""
-date: 2024-05-2610:39:32.082Z
+date: 2024-05-26T10:39:32.082Z
 categories:
   - Thermal modeling of heterogeneous chip module
   - Thermal modeling
