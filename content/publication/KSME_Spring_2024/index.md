@@ -47,7 +47,7 @@ featured: false
 # - name: Custom Link
 #   url: 
 
-url_pdf: 'https://nbviewer.org/github/Pinetree-Lee/starter-hugo-academic/blob/main/assets/media/pdfs/2023_KSME_TED_extended_abstract_Hansol_Lee.pdf'
+url_pdf: 'https://nbviewer.org/github/Pinetree-Lee/starter-hugo-academic/blob/main/assets/media/pdfs/2024_KSME_TED_extended_abstract_HansolLee.pdf'
 url_project: ''
 url_slides: ''
 
