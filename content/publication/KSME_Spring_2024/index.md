@@ -40,7 +40,7 @@ summary: This material was presented in 2024 KSME TED. The newly developed semi-
 tags: [Manifold microchannels, Embedded cooling, Electronics cooling, Heat sink, Thermal-hydraulic modeling, Flow non-uniformity]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
