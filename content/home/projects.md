@@ -15,8 +15,8 @@ content:
       tag: Embedded cooling
     - name: Thermal modeling of heterogeneous package 
       tag: Thermal modeling of heterogeneous package 
-    - name: Term Project
-      tag: Term Project
+    - name: Term project
+      tag: Term project
 design:
   columns: "1"
   view: showcase

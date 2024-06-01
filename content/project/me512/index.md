@@ -8,7 +8,7 @@ external_link: ""
 url_slides: ""
 title: ME514 Design of Cascade Thermosiphon Loop for Data Center Cooling
 tags:
-  - Term Project
+  - Term project
   - Phase Change Heat Transfer
   - Heat Exchanger Design
 links:
