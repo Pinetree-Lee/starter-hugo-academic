@@ -7,7 +7,7 @@ authors:
 url_video: ""
 date: 2024-05-26T10:39:32.082Z
 categories:
-  - Thermal modeling of heterogeneous chip module
+  - Thermal modeling of heterogeneous package
   - Thermal modeling
   - Liquid cooling
 external_link: ""
@@ -15,7 +15,7 @@ url_slides: ""
 title: Thermal integrity analysis for 2.5D/3D Process-in-Momery (PIM) heterogeneous package
 subtitle: Thermal modeling of 2.5D/3D PIM heterogeneous package
 tags:
-  - Thermal modeling of heterogeneous chip module
+  - Thermal modeling of heterogeneous package
   - Thermal modeling
   - Liquid cooling
 links:

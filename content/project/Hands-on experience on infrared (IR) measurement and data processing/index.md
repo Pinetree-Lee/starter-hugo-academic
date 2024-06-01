@@ -10,6 +10,7 @@ date: 2024-05-28T10:39:32.082Z
 categories:
   - Experiment
   - IR
+  - Term project
 external_link: ""
 url_slides: ""
 title: Hands-on experience on infrared (IR) measurement and data processing
@@ -20,6 +21,7 @@ tags:
   - Data_processing
   - Code_development
   - Experiment
+  - Term project
 links:
   - icon: linkedin
     icon_pack: fab
