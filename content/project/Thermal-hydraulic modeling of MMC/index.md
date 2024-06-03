@@ -32,12 +32,12 @@ image:
 url_code: ""
 ---
 
-# Introduction
-Electronics are now facing thermal bottlenecks which limit their performance due to the physical limiation of cooling its heat generation. Introduction of 3D heterongenous integration of ICs and development of the next-generation power semiconductors both have led to the necessitiy of effective and energy-efficient cooling schemes which are capable of manage very high-heat flux over 1 kW/cm$$^{2}$$. A manifold microchannel (MMC) heat sink is a promising cooling solution since it has a very low pressure drop and a uniform temperature distribuiton compared to conventional heat sinks. 
+## Introduction
+Electronics are now facing thermal bottlenecks which limit their performance due to the physical limiation of cooling its heat generation. Introduction of 3D heterongenous integration of ICs and development of the next-generation power semiconductors both have led to the necessitiy of effective and energy-efficient cooling schemes which are capable of manage very high-heat flux over 1 kW/cm {{< math >}}$^{2}${{< /math >}}. A manifold microchannel (MMC) heat sink is a promising cooling solution as it has a very low pressure drop and a uniform temperature distribuiton compared to conventional heat sinks. The superior performance of MMC comes from the fluid distributing manifold on top of the microchannels. However, previous models for predicing the thermal performance of MMCs have not taken into account the effects of flow distribution on its thermal performance. In this reasearch, we have developed a one-dimensional model which accounts for the effects of flow distribution on the thermal performance of MMC for the first time.
 
 
-# Research objectives
+## Research objectives
 
 
-# Results
+## Results
 
