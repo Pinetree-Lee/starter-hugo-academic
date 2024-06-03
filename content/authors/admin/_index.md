@@ -1,7 +1,7 @@
 ---
 title: Hansol Lee
 role: Researcher in KAIST
-avatar_filename: Profile_20240603.jpg
+avatar_filename: avatar.jpg
 bio: My research includes thermal managemet of electronics including wide-band gap semiconductors and 3D ICs via embeddedd liquid cooling, phase change phenomena, and advanced packaging.
 interests:
   - Thermal management of electronics
