@@ -32,4 +32,12 @@ image:
 url_code: ""
 ---
 
+# Introduction
+Electronics are now facing thermal bottlenecks which limit their performance due to the physical limiation of cooling its heat generation. Introduction of 3D heterongenous integration of ICs and development of the next-generation power semiconductors both have led to the necessitiy of effective and energy-efficient cooling schemes which are capable of manage very high-heat flux over 1 kW/cm$$^{2}$$. A manifold microchannel (MMC) heat sink is a promising cooling solution since it has a very low pressure drop and a uniform temperature distribuiton compared to conventional heat sinks. 
+
+
+# Research objectives
+
+
+# Results
 
