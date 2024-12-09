@@ -42,4 +42,4 @@ My research focuses on advanced thermal management of electronics using silicon-
 
 Besides my research, I enjoy playing tennis, reading books, and writing essays about miscellnaeous topics. I also love doing some side projects not related to my major like building my website as you are seeing now.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_HLee.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_PhD_Hansol_Lee.pdf" "newtab" >}}CV{{< /staticref >}}.
