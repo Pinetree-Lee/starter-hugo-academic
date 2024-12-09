@@ -39,8 +39,9 @@ highlight_name: true
 first_name: Hansol
 email: "hansollee1783@gmail.com"
 ---
-Welcome to visit my website
-I﻿ am a researcher at the **department of mechanical engineering in KAIST**. Currently, my research focuses on thermal management of electronics including power/RF devices based on the wide-band gap semiconductors and 3D ICs. I have been conducting research on an embedded liquid cooling device, which is manifold microchannels (MMC), for high-heat flux dissipating electronics (2022-Present). I'm also interested in thermal-electrical transport in semiconductors and thermal-aware advanced packaging technology.  
+Welcome to my website! I graduated from my master's at KAIST in 2024. Currently, I'm preparing for doctoral studies in the U.S. I’m excited to discover where my journey will take me next year!
+
+My research focuses on advanced thermal management of electronics using silicon-based embedded cooling. Through my research, I aim to overcome a critical bottleneck in the performance of advanced semiconductor packaing and high-performance electronics caused by excessive thermal loads. My research approach integrates thermal & electrical modeling and experimental investigations including MEMS fabrication, bridging fundamental science with practical applications to address thermal challenges in next-generation electronics.
 
 Besides my research, I enjoy playing tennis, reading books, and writing essays about miscellnaeous topics. I also love doing some side projects not related to my major like building my website as you are seeing now.
 
